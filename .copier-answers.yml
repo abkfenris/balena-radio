@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 2026.06.18-10-ga735524
+_src_path: gh:scientific-python/cookie
+backend: uv
+docs: zensical
+email: abk@mac.com
+full_name: Alex Kerney
+license: Apache
+org: abkfenris
+project_name: balena-radio
+project_short_description: Manage multiple types of radios with Balena
+url: https://github.com/abkfenris/balena-radio
+vcs: true
